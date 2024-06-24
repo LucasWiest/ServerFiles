@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\bin\Debug\net8.0\ServerFiles.exe
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\bin\Debug\net8.0\ServerFiles.deps.json
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\bin\Debug\net8.0\ServerFiles.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\bin\Debug\net8.0\ServerFiles.dll
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\bin\Debug\net8.0\ServerFiles.pdb
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.dll
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\refint\ServerFiles.dll
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.pdb
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ServerFiles.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documents\Faculdade\ServerFiles\obj\Debug\net8.0\ref\ServerFiles.dll
